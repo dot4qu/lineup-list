@@ -43,7 +43,7 @@
     "tslint": "^6.0.0",
     "typescript": "^4.2.3",
     "uuid": "^3.4.0",
-    "yaml": "^2.1.1"
+    "yaml": "^2.2.2"
   },
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
